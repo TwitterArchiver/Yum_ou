@@ -1,0 +1,310 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2083160080485339178",
+    "created_at": "2026-08-01T06:23:39.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-01T07:23:39.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2083438492705751346"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997013141268705280",
+          "start": 0,
+          "username": "minowagin2952"
+        },
+        {
+          "end": 27,
+          "id": "1791348768690089984",
+          "start": 15,
+          "username": "saya8964cat"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2083438492705751346",
+    "in_reply_to_user_id": "1997013141268705280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083411272159088947",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minowagin2952 @saya8964cat 好吧，吓死我力"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2083160080485339178",
+        "created_at": "2026-08-01T06:23:39.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T07:23:39.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083438492705751346"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997013141268705280",
+              "start": 0,
+              "username": "minowagin2952"
+            },
+            {
+              "end": 27,
+              "id": "1791348768690089984",
+              "start": 15,
+              "username": "saya8964cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083438492705751346",
+        "in_reply_to_user_id": "1997013141268705280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083411272159088947",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minowagin2952 @saya8964cat 好吧，吓死我力"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997013141268705280",
+        "conversation_id": "2083160080485339178",
+        "created_at": "2026-08-01T04:35:29.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T05:35:29.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083411272159088947"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1652200117494231043",
+              "start": 0,
+              "username": "Yum_ou"
+            },
+            {
+              "end": 24,
+              "id": "1791348768690089984",
+              "start": 12,
+              "username": "saya8964cat"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083411272159088947",
+        "in_reply_to_user_id": "1652200117494231043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 5,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083410181497778451",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yum_ou 那当然是@saya8964cat喽"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1793,
+          "following_count": 79,
+          "like_count": 13180,
+          "listed_count": 4,
+          "media_count": 476,
+          "tweet_count": 5727
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T18:40:29.000Z",
+        "description": "8964\n就这样，专制胜利了。在人民的时代里我们都是叛徒\n—————\n欢迎投稿，欢迎收看 #川粉TV #NAFO\n本人是：黄左，左逼，👊🇺🇸🔥， 殖人/殖畜/大殖子/反贼/支黑\n灵感来自 @NmsleseResearch 在此表示感谢\n————————",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 50,
+                "start": 45,
+                "tag": "川粉TV"
+              },
+              {
+                "end": 56,
+                "start": 51,
+                "tag": "NAFO"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 110,
+                "start": 94,
+                "username": "NmsleseResearch"
+              }
+            ]
+          }
+        },
+        "id": "1997013141268705280",
+        "location": "Canada",
+        "name": "🇺🇦8964fella川粉迷惑行为bot",
+        "pinned_tweet_id": "2044532625771987273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049690115681714176/Q5NYCz_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 1924,
+          "like_count": 20831,
+          "listed_count": 4,
+          "media_count": 482,
+          "tweet_count": 9256
+        },
+        "url": "",
+        "username": "minowagin2952",
+        "verified": false
+      },
+      {
+        "created_at": "2024-05-17T06:03:53.000Z",
+        "description": "这里是沙夜，esfj，1i，互fo请评论，我查一下主页，魔法使い🐈@owl8964cat (^з^)-☆ ngl匿名提问箱： https://t.co/0Uo3DcWNBu",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 44,
+                "start": 33,
+                "username": "owl8964cat"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "ngl.link/sa%E2%80%86ya%…",
+                "end": 86,
+                "expanded_url": "https://ngl.link/sa%E2%80%86ya%E2%80%86ca%E2%80%86t",
+                "start": 63,
+                "url": "https://t.co/0Uo3DcWNBu"
+              }
+            ]
+          }
+        },
+        "id": "1791348768690089984",
+        "location": "アモイ",
+        "name": "🍎天の川紗夜⭐️",
+        "pinned_tweet_id": "2023785537270935681",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1973424771590410240/2BBwS0ug_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1137,
+          "following_count": 1173,
+          "like_count": 100997,
+          "listed_count": 4,
+          "media_count": 527,
+          "tweet_count": 44127
+        },
+        "url": "",
+        "username": "saya8964cat",
+        "verified": false
+      }
+    ]
+  }
+}
