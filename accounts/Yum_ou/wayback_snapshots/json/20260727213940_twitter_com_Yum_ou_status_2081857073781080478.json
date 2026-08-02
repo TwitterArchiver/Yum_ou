@@ -1,0 +1,226 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2081719515810070781",
+    "created_at": "2026-07-27T21:39:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T22:39:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081857073781080478"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "2080996245695315968",
+          "start": 0,
+          "username": "spring5201337"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081857073781080478",
+    "in_reply_to_user_id": "2080996245695315968",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081742960090308608",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@spring5201337 可以看看我以前发的内容你就知道了"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2081719515810070781",
+        "created_at": "2026-07-27T21:39:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T22:39:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081857073781080478"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "2080996245695315968",
+              "start": 0,
+              "username": "spring5201337"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081857073781080478",
+        "in_reply_to_user_id": "2080996245695315968",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081742960090308608",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@spring5201337 可以看看我以前发的内容你就知道了"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2080996245695315968",
+        "conversation_id": "2081719515810070781",
+        "created_at": "2026-07-27T14:06:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T15:06:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081742960090308608"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1652200117494231043",
+              "start": 0,
+              "username": "Yum_ou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081742960090308608",
+        "in_reply_to_user_id": "1652200117494231043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 1,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081719515810070781",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yum_ou 怎么了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 75,
+          "like_count": 12985,
+          "listed_count": 4,
+          "media_count": 469,
+          "tweet_count": 5601
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-07-25T12:40:24.000Z",
+        "description": "扩列加q3930807748 圈名虚构之春 叫我小春就行啦 本人男高 有一点点宅 喜欢打各种游戏 大部分是stm的 可一起玩 比较雷ba㊗️和米蛆 喜欢看各种比赛 脾气好 很少破防生气 可交友",
+        "id": "2080996245695315968",
+        "name": "心事丶全在臉上",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080996974254280704/0y_0YMRC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2,
+          "following_count": 70,
+          "like_count": 3,
+          "listed_count": 0,
+          "media_count": 2,
+          "tweet_count": 13
+        },
+        "url": "",
+        "username": "spring5201337",
+        "verified": false
+      }
+    ]
+  }
+}

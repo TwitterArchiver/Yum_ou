@@ -1,0 +1,251 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2081861960451367396",
+    "created_at": "2026-07-28T11:59:18.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-28T12:59:18.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2082073408192577749"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 14,
+          "id": "1997013141268705280",
+          "start": 0,
+          "username": "minowagin2952"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2082073408192577749",
+    "in_reply_to_user_id": "1997013141268705280",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2082066503055094144",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@minowagin2952 哎呦我去这个大舌头吓死我了大哥哥"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2081861960451367396",
+        "created_at": "2026-07-28T11:59:18.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:59:18.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082073408192577749"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 14,
+              "id": "1997013141268705280",
+              "start": 0,
+              "username": "minowagin2952"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082073408192577749",
+        "in_reply_to_user_id": "1997013141268705280",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082066503055094144",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@minowagin2952 哎呦我去这个大舌头吓死我了大哥哥"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1997013141268705280",
+        "conversation_id": "2081861960451367396",
+        "created_at": "2026-07-28T11:31:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-28T12:31:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2082066503055094144"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 7,
+              "id": "1652200117494231043",
+              "start": 0,
+              "username": "Yum_ou"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2082066503055094144",
+        "in_reply_to_user_id": "1652200117494231043",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 6,
+          "like_count": 1,
+          "quote_count": 0,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2082065746063180091",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Yum_ou 你快说你换的头像天下第一最最好看"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1791,
+          "following_count": 77,
+          "like_count": 13071,
+          "listed_count": 4,
+          "media_count": 470,
+          "tweet_count": 5639
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-12-05T18:40:29.000Z",
+        "description": "就这样，专制胜利了。在人民的时代里我们都是叛徒\n—————\n欢迎投稿，欢迎收看 #川粉TV #NAFO\n本人是：黄左，左逼，👊🇺🇸🔥， 殖人/殖畜/大殖子/反贼/支黑\n灵感来自 @NmsleseResearch 在此表示感谢\n————————",
+        "entities": {
+          "description": {
+            "hashtags": [
+              {
+                "end": 45,
+                "start": 40,
+                "tag": "川粉TV"
+              },
+              {
+                "end": 51,
+                "start": 46,
+                "tag": "NAFO"
+              }
+            ],
+            "mentions": [
+              {
+                "end": 105,
+                "start": 89,
+                "username": "NmsleseResearch"
+              }
+            ]
+          }
+        },
+        "id": "1997013141268705280",
+        "location": "Canada",
+        "name": "🇺🇦8964fella川粉迷惑行为bot",
+        "pinned_tweet_id": "2044532625771987273",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2049690115681714176/Q5NYCz_z_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 933,
+          "following_count": 1917,
+          "like_count": 20546,
+          "listed_count": 4,
+          "media_count": 479,
+          "tweet_count": 9137
+        },
+        "url": "",
+        "username": "minowagin2952",
+        "verified": false
+      }
+    ]
+  }
+}

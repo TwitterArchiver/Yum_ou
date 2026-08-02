@@ -1,0 +1,212 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2081783243687530962",
+    "created_at": "2026-07-27T21:38:17.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T22:38:17.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2081856728401125468"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1009794010607706113",
+          "start": 0,
+          "username": "samyape"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081856728401125468",
+    "in_reply_to_user_id": "1009794010607706113",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081783243687530962",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@samyape 呃果然还是这种引流帖流量最多啊，但是我主页挂的很好不炸"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2081783243687530962",
+        "created_at": "2026-07-27T21:38:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T22:38:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081856728401125468"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1009794010607706113",
+              "start": 0,
+              "username": "samyape"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081856728401125468",
+        "in_reply_to_user_id": "1009794010607706113",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081783243687530962",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@samyape 呃果然还是这种引流帖流量最多啊，但是我主页挂的很好不炸"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1009794010607706113",
+        "conversation_id": "2081783243687530962",
+        "created_at": "2026-07-27T16:46:17.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T17:46:17.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2081783243687530962"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2081783243687530962",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 3143,
+          "like_count": 21,
+          "quote_count": 0,
+          "reply_count": 13,
+          "retweet_count": 22
+        },
+        "reply_settings": "everyone",
+        "text": "今天主流的VPN梯子基本都炸了\n\n 现在还能翻墙出来刷到此推的中国人，基本都是人中龙风🤣"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 75,
+          "like_count": 12984,
+          "listed_count": 4,
+          "media_count": 469,
+          "tweet_count": 5599
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2018-06-21T13:43:48.000Z",
+        "description": "拥有强烈的分享欲 只回复粉丝",
+        "id": "1009794010607706113",
+        "location": "0.6km",
+        "name": "06的🐔",
+        "pinned_tweet_id": "2081783243687530962",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081717078374117376/UHFB5--i_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1853,
+          "following_count": 434,
+          "like_count": 34517,
+          "listed_count": 3,
+          "media_count": 414,
+          "tweet_count": 10843
+        },
+        "url": "",
+        "username": "samyape",
+        "verified": false
+      }
+    ]
+  }
+}

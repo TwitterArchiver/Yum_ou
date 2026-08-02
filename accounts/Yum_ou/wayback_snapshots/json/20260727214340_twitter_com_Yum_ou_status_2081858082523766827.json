@@ -1,0 +1,240 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2081858082523766827",
+    "created_at": "2026-07-27T21:43:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-07-27T22:43:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2081858082523766827"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/n552aa8/status…",
+          "end": 44,
+          "expanded_url": "https://twitter.com/n552aa8/status/2081597807262322995",
+          "start": 21,
+          "url": "https://t.co/jIXei82zdh"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2081858082523766827",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2081597807262322995",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "我现在只想去楼顶试试中国人是不是真的会飞 https://t.co/jIXei82zdh"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2081858082523766827",
+        "created_at": "2026-07-27T21:43:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T22:43:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081858082523766827"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/n552aa8/status…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/n552aa8/status/2081597807262322995",
+              "start": 21,
+              "url": "https://t.co/jIXei82zdh"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081858082523766827",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081597807262322995",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在只想去楼顶试试中国人是不是真的会飞 https://t.co/jIXei82zdh"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2047433069116719104",
+        "conversation_id": "2081597807262322995",
+        "created_at": "2026-07-27T04:29:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-07-27T05:29:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2081597807262322995"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/Mercyvxv/statu…",
+              "end": 44,
+              "expanded_url": "https://twitter.com/Mercyvxv/status/2081587491161968975",
+              "start": 21,
+              "url": "https://t.co/bFHMEMiZGI"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2081597807262322995",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 670,
+          "like_count": 7,
+          "quote_count": 2,
+          "reply_count": 1,
+          "retweet_count": 1
+        },
+        "referenced_tweets": [
+          {
+            "id": "2081587491161968975",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我现在只想去楼顶试试中国人是不是真的会飞 https://t.co/bFHMEMiZGI"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1790,
+          "following_count": 75,
+          "like_count": 12992,
+          "listed_count": 4,
+          "media_count": 469,
+          "tweet_count": 5603
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-23T21:51:07.000Z",
+        "description": "08/mtx（f？/ENTP-T/ASD/C-PTSD/ADHD/BPD/快速循环型双相/osdd-1a/重度焦虑/重度失眠/家长不稳定党/hrt：2024-8-25/ 小证：2025-11-14/坐标上海/oder/长在春风中，活在药效里。/上海市贴贴微信群群主/ 🚪25（同类免费，过门私信）",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "n552aa.github.io",
+                "end": 23,
+                "expanded_url": "http://n552aa.github.io",
+                "start": 0,
+                "url": "https://t.co/ugd1wwbKjr"
+              }
+            ]
+          }
+        },
+        "id": "2047433069116719104",
+        "location": "宛平南路600号",
+        "name": "N552AA🍥🍜🍣🍕💊🍫（八代目）",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2047433261555576832/tJJpmxLi_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 540,
+          "following_count": 109,
+          "like_count": 178,
+          "listed_count": 5,
+          "media_count": 24,
+          "tweet_count": 143
+        },
+        "url": "https://t.co/ugd1wwbKjr",
+        "username": "N552AA8",
+        "verified": false
+      }
+    ]
+  }
+}
