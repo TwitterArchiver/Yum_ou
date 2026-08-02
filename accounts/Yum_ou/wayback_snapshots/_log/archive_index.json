@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "last_updated": "2026-08-02T10:14:09",
+  "last_updated": "2026-08-02T10:14:22",
   "html": {
     "https://web.archive.org/web/20260727120425if_/https://twitter.com/Yum_ou/status/2081712309597262157": {
       "status": "done",
@@ -831,10 +831,11 @@
   },
   "videos": {
     "https://video.twimg.com/amplify_video/2083498769153413120/vid/avc1/720x1280/EizO2eahZlrWGY0B.mp4": {
-      "status": "unknown",
+      "status": "done",
       "referenced_by": [
         "20260801102317_twitter_com_Yum_ou_status_2083498795749543993.json"
-      ]
+      ],
+      "last_updated": "2026-08-02T10:14:22"
     }
   },
   "avatars": {
@@ -3445,7 +3446,7 @@
       "last_updated": "2026-08-02T10:14:08"
     },
     "20260801102317_twitter_com_Yum_ou_status_2083498795749543993.json": {
-      "status": "unknown",
+      "status": "done",
       "depends_on": {
         "images": [],
         "videos": [
@@ -3455,7 +3456,7 @@
           "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg"
         ]
       },
-      "last_updated": "2026-08-02T10:14:08"
+      "last_updated": "2026-08-02T10:14:22"
     },
     "20260801111958_twitter_com_Yum_ou_status_2083513060749423039.json": {
       "status": "done",
