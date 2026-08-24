@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2084955325804019994",
+    "created_at": "2026-08-05T21:21:03.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T22:21:03.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085113881010356293"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1758892284722946049",
+          "start": 0,
+          "username": "EllynRosal53362"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085113881010356293",
+    "in_reply_to_user_id": "1758892284722946049",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084955325804019994",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@EllynRosal53362 我主页挂的好用喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2084955325804019994",
+        "created_at": "2026-08-05T21:21:03.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T22:21:03.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085113881010356293"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1758892284722946049",
+              "start": 0,
+              "username": "EllynRosal53362"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085113881010356293",
+        "in_reply_to_user_id": "1758892284722946049",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084955325804019994",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@EllynRosal53362 我主页挂的好用喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1758892284722946049",
+        "conversation_id": "2084955325804019994",
+        "created_at": "2026-08-05T10:51:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:51:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084955325804019994"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084955325804019994",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 353,
+          "like_count": 15,
+          "quote_count": 0,
+          "reply_count": 23,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "大家有什么好用的VPN ,我的梯子连图片都打不开，影响我看片，求推荐翻墙看片不卡的，谢谢🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 79,
+          "like_count": 13263,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 5803
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-02-17T16:33:06.000Z",
+        "description": "",
+        "id": "1758892284722946049",
+        "name": "Ellyn Rosalinda",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1760699464237617152/FT4WXUOm_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 23,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 29
+        },
+        "url": "",
+        "username": "EllynRosal53362",
+        "verified": false
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2084781018851193269",
+    "created_at": "2026-08-05T06:17:10.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T07:17:10.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084886411757674937"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "2029061443568713731",
+          "start": 0,
+          "username": "maoxianACT"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084886411757674937",
+    "in_reply_to_user_id": "2029061443568713731",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084781018851193269",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "other",
+    "text": "@maoxianACT 给你送医院没"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2084781018851193269",
+        "created_at": "2026-08-05T06:17:10.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T07:17:10.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084886411757674937"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "2029061443568713731",
+              "start": 0,
+              "username": "maoxianACT"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084886411757674937",
+        "in_reply_to_user_id": "2029061443568713731",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084781018851193269",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "other",
+        "text": "@maoxianACT 给你送医院没"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "2029061443568713731",
+        "conversation_id": "2084781018851193269",
+        "created_at": "2026-08-04T23:18:22.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T00:18:22.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084781018851193269"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084781018851193269",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 107,
+          "like_count": 2,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "reply_settings": "other",
+        "text": "最近一个星期都是美国作息，所以我昨天吃了一片喹硫平，两片碳酸锂，两片草酸艾司西台普兰，150mg普瑞巴林\n结果过了一小时头晕出了很多汗，身体控制不住的难受，反胃(尊医嘱了，但是可能是不能联用，也有可能是锂中毒了）\n我爸回家的时候发现我晕在地上给我爸吓坏了"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1831,
+          "following_count": 79,
+          "like_count": 13247,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 5784
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-03-04T05:08:48.000Z",
+        "description": "🤍前世@maoxian1527 | 非二元cat | 看心情互fo | 什么都不会的废物猫 | 🍥🏳️‍⚧️🤍進步主義者 | 繪畫 | 攝影 | 滴泪系 | \n姐姐@Yum_ou 老公@meph4786",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 15,
+                "start": 3,
+                "username": "maoxian1527"
+              },
+              {
+                "end": 89,
+                "start": 82,
+                "username": "Yum_ou"
+              },
+              {
+                "end": 101,
+                "start": 92,
+                "username": "meph4786"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "maoxianACT.top",
+                "end": 23,
+                "expanded_url": "http://maoxianACT.top",
+                "start": 0,
+                "url": "https://t.co/k5QWEwaa7P"
+              }
+            ]
+          }
+        },
+        "id": "2029061443568713731",
+        "location": "江浙沪常驻🏳️‍⚧️",
+        "name": "猫弦ACT *🍥",
+        "pinned_tweet_id": "2075926045216375191",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058797385028087808/xxRT3qZj_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 917,
+          "following_count": 75,
+          "like_count": 584,
+          "listed_count": 4,
+          "media_count": 164,
+          "tweet_count": 697
+        },
+        "url": "https://t.co/k5QWEwaa7P",
+        "username": "maoxianACT",
+        "verified": true
+      }
+    ]
+  }
+}

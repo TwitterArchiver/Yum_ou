@@ -1,0 +1,293 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2084954485814903203",
+    "created_at": "2026-08-05T10:47:40.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:47:40.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084954485814903203"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 8,
+          "id": "1720665183188922368",
+          "start": 3,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/hgangmakot9763…",
+          "end": 109,
+          "expanded_url": "https://twitter.com/hgangmakot97631/status/2084296984924688461",
+          "start": 86,
+          "url": "https://t.co/y7Qtwqc6sa"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084954485814903203",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084296984924688461",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "你好 @grok 根据我的推文，我是：\n- 哪位独裁者？\n- 哪位哲学家？\n- 哪位虚构人物？\n- 哪位政治家？\n- 哪位宗教人士？\n- 哪位历史人物？\n- 哪位艺术家？ https://t.co/y7Qtwqc6sa"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2084954485814903203",
+        "created_at": "2026-08-05T10:47:40.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:47:40.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084954485814903203"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720665183188922368",
+              "start": 3,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/hgangmakot9763…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/hgangmakot97631/status/2084296984924688461",
+              "start": 86,
+              "url": "https://t.co/y7Qtwqc6sa"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084954485814903203",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084296984924688461",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你好 @grok 根据我的推文，我是：\n- 哪位独裁者？\n- 哪位哲学家？\n- 哪位虚构人物？\n- 哪位政治家？\n- 哪位宗教人士？\n- 哪位历史人物？\n- 哪位艺术家？ https://t.co/y7Qtwqc6sa"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1900202897738252288",
+        "conversation_id": "2084296984924688461",
+        "created_at": "2026-08-03T15:15:00.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-03T16:15:00.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084296984924688461"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 8,
+              "id": "1720665183188922368",
+              "start": 3,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/1gdsb/status/2…",
+              "end": 109,
+              "expanded_url": "https://twitter.com/1gdsb/status/2084240778612879432",
+              "start": 86,
+              "url": "https://t.co/QLtXUtqF4R"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084296984924688461",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 131,
+          "like_count": 3,
+          "quote_count": 1,
+          "reply_count": 2,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084240778612879432",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "你好 @grok 根据我的推文，我是：\n- 哪位独裁者？\n- 哪位哲学家？\n- 哪位虚构人物？\n- 哪位政治家？\n- 哪位宗教人士？\n- 哪位历史人物？\n- 哪位艺术家？ https://t.co/QLtXUtqF4R"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 79,
+          "like_count": 13264,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 5797
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8915137,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7274,
+          "media_count": 9222322,
+          "tweet_count": 134169871
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2025-03-13T15:11:59.000Z",
+        "description": "Lost Soul Journey\n/🏳️‍⚧️MTFtx/HRT始于  2025.10.06/止于2025.10.31\n/深柜？出柜？炸柜？一种奇妙的量子叠加态/嫉妒所有比我好看的女孩子",
+        "id": "1900202897738252288",
+        "location": "湖北荆门下属某个地方",
+        "name": "困困小桐💤",
+        "pinned_tweet_id": "2051575598674550798",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2051573340666753024/8RKC7yiP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 468,
+          "following_count": 679,
+          "like_count": 9826,
+          "listed_count": 1,
+          "media_count": 58,
+          "tweet_count": 1688
+        },
+        "url": "",
+        "username": "HGangmakot97631",
+        "verified": false
+      }
+    ]
+  }
+}

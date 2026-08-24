@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2084478392305664120",
+    "created_at": "2026-08-05T10:08:44.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:08:44.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084944687790793106"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 16,
+          "id": "1764905032862810112",
+          "start": 0,
+          "username": "anjelica_e64379"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084944687790793106",
+    "in_reply_to_user_id": "1764905032862810112",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084478392305664120",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@anjelica_e64379 我主页挂的节点便宜看片不卡！"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2084478392305664120",
+        "created_at": "2026-08-05T10:08:44.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:08:44.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084944687790793106"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 16,
+              "id": "1764905032862810112",
+              "start": 0,
+              "username": "anjelica_e64379"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084944687790793106",
+        "in_reply_to_user_id": "1764905032862810112",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084478392305664120",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@anjelica_e64379 我主页挂的节点便宜看片不卡！"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1764905032862810112",
+        "conversation_id": "2084478392305664120",
+        "created_at": "2026-08-04T03:15:51.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T04:15:51.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084478392305664120"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084478392305664120",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 2,
+          "impression_count": 6557,
+          "like_count": 16,
+          "quote_count": 0,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "今天主流的VPN又都炸了吗？怎么换几个都卡啊 ？\n大家都在用什么梯子？有稳定不卡，节点便宜的吗？\n求推荐用来翻墙看片的。谢谢大家🙏"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 79,
+          "like_count": 13256,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 5789
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2024-03-05T06:45:36.000Z",
+        "description": "",
+        "id": "1764905032862810112",
+        "name": "Anjelica Eula",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1766092690909712384/v7BYx9ZG_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 0,
+          "following_count": 2,
+          "like_count": 16,
+          "listed_count": 0,
+          "media_count": 0,
+          "tweet_count": 15
+        },
+        "url": "",
+        "username": "anjelica_e64379",
+        "verified": false
+      }
+    ]
+  }
+}

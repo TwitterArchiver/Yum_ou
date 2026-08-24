@@ -1,0 +1,295 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2015704075187429844",
+    "created_at": "2026-08-05T10:42:55.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T11:42:55.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084953288236323136"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 15,
+          "id": "1599012090517540869",
+          "start": 0,
+          "username": "loveforeversfy"
+        },
+        {
+          "end": 28,
+          "id": "1916974498903166978",
+          "start": 16,
+          "username": "Drug_wuming"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084953288236323136",
+    "in_reply_to_user_id": "1599012090517540869",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2015704075187429844",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@loveforeversfy @Drug_wuming 发生啥事了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1536,
+        "media_key": "3_2015704057932136448",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/G_k4KTlbwAAmbQ8.jpg",
+        "width": 1566
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2015704075187429844",
+        "created_at": "2026-08-05T10:42:55.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T11:42:55.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084953288236323136"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 15,
+              "id": "1599012090517540869",
+              "start": 0,
+              "username": "loveforeversfy"
+            },
+            {
+              "end": 28,
+              "id": "1916974498903166978",
+              "start": 16,
+              "username": "Drug_wuming"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084953288236323136",
+        "in_reply_to_user_id": "1599012090517540869",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2015704075187429844",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@loveforeversfy @Drug_wuming 发生啥事了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2015704057932136448"
+          ]
+        },
+        "author_id": "1599012090517540869",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2015704075187429844",
+        "created_at": "2026-01-26T08:31:16.000Z",
+        "edit_controls": {
+          "editable_until": "2026-01-26T09:31:16.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2015704075187429844"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/kaZrtlthrR",
+              "end": 36,
+              "expanded_url": "https://x.com/loveforeversfy/status/2015704075187429844/photo/1",
+              "media_key": "3_2015704057932136448",
+              "start": 13,
+              "url": "https://t.co/kaZrtlthrR"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2015704075187429844",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 301,
+          "impression_count": 782797,
+          "like_count": 1412,
+          "quote_count": 112,
+          "reply_count": 489,
+          "retweet_count": 79
+        },
+        "reply_settings": "everyone",
+        "text": "死妈药娘严肃参观他的死妈 https://t.co/kaZrtlthrR"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1832,
+          "following_count": 79,
+          "like_count": 13259,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 5795
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2022-12-03T12:06:13.000Z",
+        "description": "严重脑残｜enby｜🚪67",
+        "id": "1599012090517540869",
+        "name": "蘑菇盆栽🍄",
+        "pinned_tweet_id": "2068997025849647511",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2000518712626229248/-YPIFnC8_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 2750,
+          "following_count": 1559,
+          "like_count": 35898,
+          "listed_count": 10,
+          "media_count": 1260,
+          "tweet_count": 11654
+        },
+        "url": "",
+        "username": "loveforeversfy",
+        "verified": false
+      },
+      {
+        "created_at": "2025-04-28T21:55:19.000Z",
+        "description": "直男/有事说事",
+        "entities": {
+          "url": {
+            "urls": [
+              {
+                "display_url": "jile.bid",
+                "end": 23,
+                "expanded_url": "https://jile.bid/",
+                "start": 0,
+                "url": "https://t.co/BeprZt3h72"
+              }
+            ]
+          }
+        },
+        "id": "1916974498903166978",
+        "name": "无名",
+        "pinned_tweet_id": "2078738716508737549",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2078082221064482816/MgKCJyTJ_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 866,
+          "following_count": 922,
+          "like_count": 695,
+          "listed_count": 1,
+          "media_count": 42,
+          "tweet_count": 563
+        },
+        "url": "https://t.co/BeprZt3h72",
+        "username": "Drug_wuming",
+        "verified": false
+      }
+    ]
+  }
+}

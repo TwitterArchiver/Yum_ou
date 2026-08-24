@@ -1,0 +1,315 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2085306022168756349",
+    "created_at": "2026-08-06T10:04:33.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-06T11:04:33.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2085306022168756349"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 21,
+          "id": "1720665183188922368",
+          "start": 16,
+          "username": "grok"
+        }
+      ],
+      "urls": [
+        {
+          "display_url": "x.com/cheese_ghostfo…",
+          "end": 51,
+          "expanded_url": "https://twitter.com/cheese_ghostfox/status/2084876747976355901",
+          "start": 28,
+          "url": "https://t.co/dyzACkRtLF"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085306022168756349",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084876747976355901",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "请告诉我这个账号上最恶心的帖子\n@grok\n（用中文） https://t.co/dyzACkRtLF"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2085306022168756349",
+        "created_at": "2026-08-06T10:04:33.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-06T11:04:33.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2085306022168756349"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1720665183188922368",
+              "start": 16,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/cheese_ghostfo…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/cheese_ghostfox/status/2084876747976355901",
+              "start": 28,
+              "url": "https://t.co/dyzACkRtLF"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085306022168756349",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084876747976355901",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请告诉我这个账号上最恶心的帖子\n@grok\n（用中文） https://t.co/dyzACkRtLF"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1620506107306479617",
+        "conversation_id": "2084876747976355901",
+        "created_at": "2026-08-05T05:38:46.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T06:38:46.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084876747976355901"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 21,
+              "id": "1720665183188922368",
+              "start": 16,
+              "username": "grok"
+            }
+          ],
+          "urls": [
+            {
+              "display_url": "x.com/Usam8964/statu…",
+              "end": 51,
+              "expanded_url": "https://twitter.com/Usam8964/status/2084558919553413168",
+              "start": 28,
+              "url": "https://t.co/pzwLKgVLtk"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084876747976355901",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 2111,
+          "like_count": 1,
+          "quote_count": 2,
+          "reply_count": 12,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084558919553413168",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "请告诉我这个账号上最恶心的帖子\n@grok\n（用中文） https://t.co/pzwLKgVLtk"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1826,
+          "following_count": 79,
+          "like_count": 13262,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 5810
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2023-11-04T04:52:34.000Z",
+        "description": "@grok it",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 5,
+                "start": 0,
+                "username": "grok"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "grok.com/download",
+                "end": 23,
+                "expanded_url": "http://grok.com/download",
+                "start": 0,
+                "url": "https://t.co/fqNKQSjjG9"
+              }
+            ]
+          }
+        },
+        "id": "1720665183188922368",
+        "name": "Grok",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2057885623374290944/lmj0pawP_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 8922953,
+          "following_count": 5,
+          "like_count": 122,
+          "listed_count": 7272,
+          "media_count": 9226117,
+          "tweet_count": 134460885
+        },
+        "url": "https://t.co/fqNKQSjjG9",
+        "username": "grok",
+        "verified": true
+      },
+      {
+        "created_at": "2023-01-31T19:36:01.000Z",
+        "description": "狐狐「霧開川 望」与您同在~ 丨☯Survivalist 工業魔法師 后煉金時代治愈術士 電磁陣法專家 現代應用煉金術學者 電陣輔助設計師 裡世界藝術家丨INTP–T丨非二元 MtX 无证药娘🏳️‍⚧️丨She/Her丨技術加速主義/超友好🥰丨「願愛與健康常伴汝身」丨裡推@HEX_Ghostfox",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 149,
+                "start": 136,
+                "username": "HEX_Ghostfox"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "github.com/CheeseGhostfox",
+                "end": 23,
+                "expanded_url": "https://github.com/CheeseGhostfox",
+                "start": 0,
+                "url": "https://t.co/COn8ugIjyQ"
+              }
+            ]
+          }
+        },
+        "id": "1620506107306479617",
+        "location": "-0.15m",
+        "name": "☯️🧬霊狐製作所 公式ツイッター",
+        "pinned_tweet_id": "2058707382977569280",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2058699765781798912/ImX2UQtX_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1729,
+          "following_count": 1536,
+          "like_count": 22674,
+          "listed_count": 7,
+          "media_count": 821,
+          "tweet_count": 7287
+        },
+        "url": "https://t.co/COn8ugIjyQ",
+        "username": "Cheese_Ghostfox",
+        "verified": true
+      }
+    ]
+  }
+}

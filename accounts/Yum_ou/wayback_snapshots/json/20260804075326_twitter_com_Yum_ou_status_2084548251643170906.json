@@ -1,0 +1,228 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2084287832408088802",
+    "created_at": "2026-08-04T07:53:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-04T08:53:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084548251643170906"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1885853676503474176",
+          "start": 0,
+          "username": "Eroerosense"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084548251643170906",
+    "in_reply_to_user_id": "1885853676503474176",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084458256924311776",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@Eroerosense 和蓝舌头有什么关系不懂就问一下"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2084287832408088802",
+        "created_at": "2026-08-04T07:53:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T08:53:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084548251643170906"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1885853676503474176",
+              "start": 0,
+              "username": "Eroerosense"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084548251643170906",
+        "in_reply_to_user_id": "1885853676503474176",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084458256924311776",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@Eroerosense 和蓝舌头有什么关系不懂就问一下"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1885853676503474176",
+        "conversation_id": "2084287832408088802",
+        "created_at": "2026-08-04T01:55:50.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T02:55:50.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084458256924311776"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "1896604741821726720",
+              "start": 0,
+              "username": "_yonayonaka_"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084458256924311776",
+        "in_reply_to_user_id": "1896604741821726720",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 115,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084287832408088802",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@_yonayonaka_ 我草，蓝舌头。。。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1823,
+          "following_count": 78,
+          "like_count": 13246,
+          "listed_count": 4,
+          "media_count": 479,
+          "tweet_count": 5778
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-02-02T00:52:30.000Z",
+        "description": "English/日本語/中国語 Ok\n\n想发什么就发什么，互 FO 欢迎\n\n喜欢分享美好生活，对不起我是现充",
+        "id": "1885853676503474176",
+        "location": "🇺🇸",
+        "name": "鬱鬱鬱鬱鬱鬱鬱鬱鬱",
+        "pinned_tweet_id": "2083198083823783986",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2083905097051017216/qRaY3k7T_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 32,
+          "following_count": 23,
+          "like_count": 210,
+          "listed_count": 0,
+          "media_count": 18,
+          "tweet_count": 862
+        },
+        "url": "",
+        "username": "Eroerosense",
+        "verified": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,210 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2084437823776595999",
+    "created_at": "2026-08-05T21:22:26.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-05T22:22:26.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2085114231176024455"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 13,
+          "id": "887380947099938816",
+          "start": 0,
+          "username": "gabischeck63"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2085114231176024455",
+    "in_reply_to_user_id": "887380947099938816",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2084437823776595999",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@gabischeck63 我主页挂的好用看片不卡喵"
+  },
+  "includes": {
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2084437823776595999",
+        "created_at": "2026-08-05T21:22:26.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-05T22:22:26.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2085114231176024455"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 13,
+              "id": "887380947099938816",
+              "start": 0,
+              "username": "gabischeck63"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2085114231176024455",
+        "in_reply_to_user_id": "887380947099938816",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2084437823776595999",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@gabischeck63 我主页挂的好用看片不卡喵"
+      },
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "887380947099938816",
+        "conversation_id": "2084437823776595999",
+        "created_at": "2026-08-04T00:34:38.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-04T01:34:38.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084437823776595999"
+        ],
+        "entities": {},
+        "geo": {},
+        "id": "2084437823776595999",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 18,
+          "impression_count": 66416,
+          "like_count": 65,
+          "quote_count": 0,
+          "reply_count": 293,
+          "retweet_count": 6
+        },
+        "reply_settings": "everyone",
+        "text": "大家有好用的VPN吗？我的梯子看片有点卡，给我推荐一款网速稳定的谢谢。"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1830,
+          "following_count": 79,
+          "like_count": 13263,
+          "listed_count": 4,
+          "media_count": 480,
+          "tweet_count": 5807
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2017-07-18T18:37:59.000Z",
+        "description": "honey brain, hurricane heart 🍯 100% follow back",
+        "id": "887380947099938816",
+        "name": "Emma zero sleep",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2059732184215265282/i8DeddpC_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 11,
+          "following_count": 0,
+          "like_count": 19,
+          "listed_count": 0,
+          "media_count": 1,
+          "tweet_count": 20
+        },
+        "url": "",
+        "username": "gabischeck63",
+        "verified": false
+      }
+    ]
+  }
+}

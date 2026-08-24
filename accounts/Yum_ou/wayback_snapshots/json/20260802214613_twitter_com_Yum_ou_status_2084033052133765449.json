@@ -1,0 +1,258 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2083682291851940084",
+    "created_at": "2026-08-02T21:46:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T22:46:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084033052133765449"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 12,
+          "id": "1974036716727201792",
+          "start": 0,
+          "username": "jilianmeing"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084033052133765449",
+    "in_reply_to_user_id": "1974036716727201792",
+    "lang": "ja",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083682291851940084",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@jilianmeing 发生啥事了"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 2048,
+        "media_key": "3_2083682283777892352",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOq5_01bIAA2I1H.jpg",
+        "width": 946
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2083682291851940084",
+        "created_at": "2026-08-02T21:46:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T22:46:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084033052133765449"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 12,
+              "id": "1974036716727201792",
+              "start": 0,
+              "username": "jilianmeing"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084033052133765449",
+        "in_reply_to_user_id": "1974036716727201792",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083682291851940084",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@jilianmeing 发生啥事了"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083682283777892352"
+          ]
+        },
+        "author_id": "1974036716727201792",
+        "conversation_id": "2083682291851940084",
+        "created_at": "2026-08-01T22:32:25.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-01T23:32:25.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083682291851940084"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/OmNpNkihxj",
+              "end": 27,
+              "expanded_url": "https://x.com/jilianmeing/status/2083682291851940084/photo/1",
+              "media_key": "3_2083682283777892352",
+              "start": 4,
+              "url": "https://t.co/OmNpNkihxj"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083682291851940084",
+        "lang": "ja",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 1,
+          "impression_count": 7146,
+          "like_count": 61,
+          "quote_count": 2,
+          "reply_count": 33,
+          "retweet_count": 0
+        },
+        "reply_settings": "everyone",
+        "text": "何意味 https://t.co/OmNpNkihxj"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 77,
+          "like_count": 13194,
+          "listed_count": 4,
+          "media_count": 479,
+          "tweet_count": 5748
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-10-03T09:00:31.000Z",
+        "description": "我的姐姐@miaowuqvq @kumatamasan\n@zbc107024",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 14,
+                "start": 4,
+                "username": "miaowuqvq"
+              },
+              {
+                "end": 27,
+                "start": 15,
+                "username": "kumatamasan"
+              },
+              {
+                "end": 38,
+                "start": 28,
+                "username": "zbc107024"
+              }
+            ]
+          }
+        },
+        "id": "1974036716727201792",
+        "location": "我还有好多话想说",
+        "name": "我削下来的洋葱头怎么被人装上了齐刘海",
+        "pinned_tweet_id": "2035581763452641526",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1997361860912558080/dMZhlN0e_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 622,
+          "following_count": 522,
+          "like_count": 52133,
+          "listed_count": 5,
+          "media_count": 1338,
+          "tweet_count": 19231
+        },
+        "url": "",
+        "username": "jilianmeing",
+        "verified": false
+      }
+    ]
+  }
+}

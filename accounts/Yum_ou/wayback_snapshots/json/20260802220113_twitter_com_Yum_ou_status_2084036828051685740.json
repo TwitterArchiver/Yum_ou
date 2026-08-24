@@ -1,0 +1,276 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2083780352066441340",
+    "created_at": "2026-08-02T22:01:13.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T23:01:13.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": false
+    },
+    "edit_history_tweet_ids": [
+      "2084036828051685740"
+    ],
+    "entities": {
+      "mentions": [
+        {
+          "end": 11,
+          "id": "1971814880375406592",
+          "start": 0,
+          "username": "kawa090109"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084036828051685740",
+    "in_reply_to_user_id": "1971814880375406592",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083780352066441340",
+        "type": "replied_to"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "@kawa090109 笑的我头好痛"
+  },
+  "includes": {
+    "media": [
+      {
+        "duration_ms": 24933,
+        "height": 1280,
+        "media_key": "13_2082903597004861440",
+        "preview_image_url": "https://pbs.twimg.com/amplify_video_thumb/2082903597004861440/img/qOkfjbpbz9tHJNeW.jpg",
+        "public_metrics": {
+          "view_count": 8859539
+        },
+        "type": "video",
+        "variants": [
+          {
+            "bit_rate": 632000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082903597004861440/vid/avc1/320x568/vLe9Jy-1l-bBf7ot.mp4"
+          },
+          {
+            "bit_rate": 950000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082903597004861440/vid/avc1/480x852/OE2r9ItzSzYIkHNF.mp4"
+          },
+          {
+            "bit_rate": 2176000,
+            "content_type": "video/mp4",
+            "url": "https://video.twimg.com/amplify_video/2082903597004861440/vid/avc1/720x1280/dmnp22YJghqKce7H.mp4"
+          },
+          {
+            "content_type": "application/x-mpegURL",
+            "url": "https://video.twimg.com/amplify_video/2082903597004861440/pl/gFKYq8Pg5zF4g0E4.m3u8?v=1f0"
+          }
+        ],
+        "width": 720
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2083780352066441340",
+        "created_at": "2026-08-02T22:01:13.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:01:13.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2084036828051685740"
+        ],
+        "entities": {
+          "mentions": [
+            {
+              "end": 11,
+              "id": "1971814880375406592",
+              "start": 0,
+              "username": "kawa090109"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084036828051685740",
+        "in_reply_to_user_id": "1971814880375406592",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083780352066441340",
+            "type": "replied_to"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "@kawa090109 笑的我头好痛"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "13_2082903597004861440"
+          ],
+          "media_source_tweet_id": [
+            "2083514618530721935"
+          ]
+        },
+        "author_id": "1971814880375406592",
+        "context_annotations": [
+          {
+            "domain": {
+              "description": "Categories within Brand Verticals that narrow down the scope of Brands",
+              "id": "46",
+              "name": "Business Taxonomy"
+            },
+            "entity": {
+              "description": "Brands, companies, advertisers and every non-person handle with the profit intent related to offline and online games such as gaming consoles, tabletop games, video game publishers",
+              "id": "1557696940178935808",
+              "name": "Gaming Business"
+            }
+          }
+        ],
+        "conversation_id": "2083780352066441340",
+        "created_at": "2026-08-02T05:02:05.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T06:02:05.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2083780352066441340"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/K0t6GFulKc",
+              "end": 39,
+              "expanded_url": "https://x.com/2joo_E_89/status/2083514618530721935/video/1",
+              "media_key": "13_2082903597004861440",
+              "start": 16,
+              "url": "https://t.co/K0t6GFulKc"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083780352066441340",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 167,
+          "impression_count": 101689,
+          "like_count": 1039,
+          "quote_count": 14,
+          "reply_count": 70,
+          "retweet_count": 57
+        },
+        "reply_settings": "everyone",
+        "text": "我快笑疯了啊 啊啊啊啊啊啊啊啊 https://t.co/K0t6GFulKc"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 77,
+          "like_count": 13210,
+          "listed_count": 4,
+          "media_count": 479,
+          "tweet_count": 5760
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2025-09-27T05:51:26.000Z",
+        "description": "我很懵逼 我只是一枚奔溃的蛋黄",
+        "id": "1971814880375406592",
+        "name": "铁路",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/1971820886505525249/kLeOKWA6_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 477,
+          "following_count": 23,
+          "like_count": 1291,
+          "listed_count": 2,
+          "media_count": 52,
+          "tweet_count": 547
+        },
+        "url": "",
+        "username": "kawa090109",
+        "verified": false
+      }
+    ]
+  }
+}

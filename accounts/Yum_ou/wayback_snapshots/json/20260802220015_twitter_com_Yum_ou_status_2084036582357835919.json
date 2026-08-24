@@ -1,0 +1,282 @@
+{
+  "data": {
+    "article": {},
+    "attachments": {},
+    "author_id": "1652200117494231043",
+    "conversation_id": "2084036582357835919",
+    "created_at": "2026-08-02T22:00:15.000Z",
+    "edit_controls": {
+      "editable_until": "2026-08-02T23:00:15.000Z",
+      "edits_remaining": 5,
+      "is_edit_eligible": true
+    },
+    "edit_history_tweet_ids": [
+      "2084036582357835919"
+    ],
+    "entities": {
+      "urls": [
+        {
+          "display_url": "x.com/amber_digit2/s…",
+          "end": 54,
+          "expanded_url": "https://twitter.com/amber_digit2/status/2083773050256851001",
+          "start": 31,
+          "url": "https://t.co/NwuySmnA16"
+        }
+      ]
+    },
+    "geo": {},
+    "id": "2084036582357835919",
+    "lang": "zh",
+    "note_tweet": {
+      "entities": {}
+    },
+    "possibly_sensitive": false,
+    "public_metrics": {
+      "bookmark_count": 0,
+      "impression_count": 0,
+      "like_count": 0,
+      "quote_count": 0,
+      "reply_count": 0,
+      "retweet_count": 0
+    },
+    "referenced_tweets": [
+      {
+        "id": "2083773050256851001",
+        "type": "quoted"
+      }
+    ],
+    "reply_settings": "everyone",
+    "text": "好心酸，仿佛看到了我的未来\n我的梦想和志愿其实都该当个屁放了 https://t.co/NwuySmnA16"
+  },
+  "includes": {
+    "media": [
+      {
+        "height": 1850,
+        "media_key": "3_2083773047182393344",
+        "public_metrics": {},
+        "type": "photo",
+        "url": "https://pbs.twimg.com/media/HOsMi83XAAA1lA-.jpg",
+        "width": 1206
+      }
+    ],
+    "tweets": [
+      {
+        "article": {},
+        "attachments": {},
+        "author_id": "1652200117494231043",
+        "conversation_id": "2084036582357835919",
+        "created_at": "2026-08-02T22:00:15.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T23:00:15.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": true
+        },
+        "edit_history_tweet_ids": [
+          "2084036582357835919"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 54,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2083773050256851001",
+              "start": 31,
+              "url": "https://t.co/NwuySmnA16"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2084036582357835919",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 0,
+          "impression_count": 0,
+          "like_count": 0,
+          "quote_count": 0,
+          "reply_count": 0,
+          "retweet_count": 0
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083773050256851001",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "好心酸，仿佛看到了我的未来\n我的梦想和志愿其实都该当个屁放了 https://t.co/NwuySmnA16"
+      },
+      {
+        "article": {},
+        "attachments": {
+          "media_keys": [
+            "3_2083773047182393344"
+          ]
+        },
+        "author_id": "2041159531657416704",
+        "conversation_id": "2083773050256851001",
+        "created_at": "2026-08-02T04:33:04.000Z",
+        "edit_controls": {
+          "editable_until": "2026-08-02T05:33:04.000Z",
+          "edits_remaining": 5,
+          "is_edit_eligible": false
+        },
+        "edit_history_tweet_ids": [
+          "2083773050256851001"
+        ],
+        "entities": {
+          "urls": [
+            {
+              "display_url": "pic.x.com/rVUnnGSFNp",
+              "end": 83,
+              "expanded_url": "https://x.com/amber_digit2/status/2083773050256851001/photo/1",
+              "media_key": "3_2083773047182393344",
+              "start": 60,
+              "url": "https://t.co/rVUnnGSFNp"
+            },
+            {
+              "display_url": "x.com/amber_digit2/s…",
+              "end": 107,
+              "expanded_url": "https://twitter.com/amber_digit2/status/2083759902942462183",
+              "start": 84,
+              "url": "https://t.co/4jjvmlibMi"
+            }
+          ]
+        },
+        "geo": {},
+        "id": "2083773050256851001",
+        "lang": "zh",
+        "note_tweet": {
+          "entities": {}
+        },
+        "possibly_sensitive": false,
+        "public_metrics": {
+          "bookmark_count": 23,
+          "impression_count": 43769,
+          "like_count": 134,
+          "quote_count": 19,
+          "reply_count": 51,
+          "retweet_count": 14
+        },
+        "referenced_tweets": [
+          {
+            "id": "2083759902942462183",
+            "type": "quoted"
+          }
+        ],
+        "reply_settings": "everyone",
+        "text": "我不理解，我花了几百万人民币读了你们这个排名前十的破美本美硕，然后我现在月薪一万人民币，请问我读这个东西到底有什么意义 https://t.co/rVUnnGSFNp https://t.co/4jjvmlibMi"
+      }
+    ],
+    "users": [
+      {
+        "created_at": "2023-04-29T06:36:35.000Z",
+        "description": "sub｜宝宝｜对所有人友好🩷｜互fo请私信｜看成分互fo｜发点我想发的碎碎念⁺ꪒ⑅ꪒ ˖ 🐾｜如果能给你提供情绪价值那就太好啦｜妹宝@maoxianACT\n🤍29🥕千G包年vpn➡️ https://t.co/dtKlfkDAU1🤍\nᕀ𓂋᜔˖匿名箱⬇️",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 77,
+                "start": 66,
+                "username": "maoxianACT"
+              }
+            ],
+            "urls": [
+              {
+                "display_url": "tz86.vip/#/register?cod…",
+                "end": 115,
+                "expanded_url": "https://www.tz86.vip/#/register?code=oHQH9EYA",
+                "start": 92,
+                "url": "https://t.co/dtKlfkDAU1"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "ngl.link/quq_qwqg",
+                "end": 23,
+                "expanded_url": "https://ngl.link/quq_qwqg",
+                "start": 0,
+                "url": "https://t.co/TsKHcf6fRX"
+              }
+            ]
+          }
+        },
+        "id": "1652200117494231043",
+        "location": "🛏️",
+        "name": "银",
+        "pinned_tweet_id": "2066153555661381976",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2081709349538607104/VaBgOTbe_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 1797,
+          "following_count": 77,
+          "like_count": 13207,
+          "listed_count": 4,
+          "media_count": 479,
+          "tweet_count": 5759
+        },
+        "url": "https://t.co/TsKHcf6fRX",
+        "username": "Yum_ou",
+        "verified": false
+      },
+      {
+        "created_at": "2026-04-06T14:22:20.000Z",
+        "description": "🏳️‍⚧️☭ / ᴘʜᴅ @wgsi / 中文, ᴇɴ, ғʀ / ᴘʀɪᴠ @amber_medusozoa / ❤︎ @noaayoyaoaya",
+        "entities": {
+          "description": {
+            "mentions": [
+              {
+                "end": 18,
+                "start": 13,
+                "username": "wgsi"
+              },
+              {
+                "end": 55,
+                "start": 39,
+                "username": "amber_medusozoa"
+              },
+              {
+                "end": 74,
+                "start": 61,
+                "username": "noaayoyaoaya"
+              }
+            ]
+          },
+          "url": {
+            "urls": [
+              {
+                "display_url": "buymeacoffee.com/amber_",
+                "end": 23,
+                "expanded_url": "http://buymeacoffee.com/amber_",
+                "start": 0,
+                "url": "https://t.co/IMqazegXa6"
+              }
+            ]
+          }
+        },
+        "id": "2041159531657416704",
+        "location": "Toronto, Ontario",
+        "name": "𝒂𝒎𝒃𝒆𝒓🍥",
+        "pinned_tweet_id": "2080721864301658306",
+        "profile_image_url": "https://pbs.twimg.com/profile_images/2080712926512508928/SoMFcsGb_normal.jpg",
+        "protected": false,
+        "public_metrics": {
+          "followers_count": 4323,
+          "following_count": 713,
+          "like_count": 2205,
+          "listed_count": 4,
+          "media_count": 157,
+          "tweet_count": 1967
+        },
+        "url": "https://t.co/IMqazegXa6",
+        "username": "amber_digit2",
+        "verified": true
+      }
+    ]
+  }
+}
